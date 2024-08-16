@@ -40,6 +40,9 @@ li:hover  a{
     outline: 1px solid rgba(9, 19, 25, 0.189);
 }
 
+.rightside .resume #resume:hover p {
+    color: #5eead4;
+}
 
 
 

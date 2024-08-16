@@ -1,12 +1,11 @@
-import LeftSide from './components/LeftSide'
-import RIghtSide from './components/RIghtSide'
+import Portpolio from './components/Portpolio'
 import './components/styles.css'
 
 function App() {
+ 
   return (
     <div className='bg-bg-dark w-full  flex h-auto'>
-    <LeftSide />
-    <RIghtSide />
+    <Portpolio />
     </div>
   )
 }
