@@ -1,3 +1,5 @@
+
+
 ::selection {
     background-color: #5EEAD4;
     color: #134E4A;
@@ -45,4 +47,10 @@ li:hover  a{
 }
 
 
-
+@media (min-width: 640px) { 
+    #box:hover {
+        box-shadow: none;
+        background-color: transparent;
+        color: transparent;
+    }
+ }
